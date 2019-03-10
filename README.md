@@ -1,2 +1,2 @@
-# Wheather
+# Weather
 Prediction
